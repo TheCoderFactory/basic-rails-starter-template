@@ -3,7 +3,7 @@ The Coder Factory - Beginner Coder
 
 ## Starter App Template
 
-This template is a basic Rails app with with the following features:
+This template is a basic Rails app with the following features:
 
 1. Ruby 2.1.0
 1. Rails 4.0.2
@@ -13,6 +13,7 @@ This template is a basic Rails app with with the following features:
 1. Home page with navigation bar
 
 Also includes the following gems:
+
 1. Simpleform - A Rails gem that makes the code for our forms simpler.
 1. BetterErrors - A Rails gem that gives more information on the errors we see in our app
 1. Quiet Assets - Reduces the log output
